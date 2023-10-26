@@ -1,0 +1,14 @@
+package enums;
+
+public enum JumpCondition {
+	
+	NON_EXISTENT,
+	EQUAL,
+	NOT_EQUAL,
+	LAST_RESULT_WAS_ZERO,
+	GREATER_THAN,
+	GREATER_THAN_OR_EQUAL_TO,
+	LESSER_THAN,
+	LESSER_THAN_OR_EQUAL_TO;
+
+}
